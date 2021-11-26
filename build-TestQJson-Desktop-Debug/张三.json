@@ -1,0 +1,15 @@
+{
+    "addr": "天津滨海新区",
+    "age": 20,
+    "family": {
+        "brothers": [
+            "张四",
+            "张五"
+        ],
+        "farther": "张二",
+        "morther": "李四"
+    },
+    "isAlive": true,
+    "name": "张三",
+    "sex": "男"
+}

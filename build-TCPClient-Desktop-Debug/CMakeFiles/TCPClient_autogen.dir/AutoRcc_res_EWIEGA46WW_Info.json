@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug/TCPClient_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mrx_ovo/Programs/qt5/TCPClient",
+	"CMAKE_SOURCE_DIR" : "/home/mrx_ovo/Programs/qt5/TCPClient",
+	"INCLUDE_DIR" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug/TCPClient_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/mrx_ovo/Programs/qt5/TCPClient/disconnected.png",
+		"/home/mrx_ovo/Programs/qt5/TCPClient/connected.png"
+	],
+	"LOCK_FILE" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug/CMakeFiles/TCPClient_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/mrx_ovo/Programs/qt5/build-TCPClient-Desktop-Debug/CMakeFiles/TCPClient_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/mrx_ovo/Programs/qt5/TCPClient/res.qrc",
+	"VERBOSITY" : 0
+}

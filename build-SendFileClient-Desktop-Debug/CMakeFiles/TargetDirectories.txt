@@ -1,0 +1,4 @@
+/home/mrx_ovo/Programs/qt5/build-SendFileClient-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/mrx_ovo/Programs/qt5/build-SendFileClient-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/mrx_ovo/Programs/qt5/build-SendFileClient-Desktop-Debug/CMakeFiles/SendFileClient.dir
+/home/mrx_ovo/Programs/qt5/build-SendFileClient-Desktop-Debug/CMakeFiles/SendFileClient_autogen.dir

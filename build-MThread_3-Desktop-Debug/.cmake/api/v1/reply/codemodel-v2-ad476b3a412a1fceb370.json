@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MThread_3",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MThread_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MThread_3-Debug-585d2f953f01a7e03af1.json",
+					"name" : "MThread_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MThread_3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MThread_3_autogen-Debug-d329c0251eb72eca8bfb.json",
+					"name" : "MThread_3_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mrx_ovo/Programs/qt5/build-MThread_3-Desktop-Debug",
+		"source" : "/home/mrx_ovo/Programs/qt5/MThread_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

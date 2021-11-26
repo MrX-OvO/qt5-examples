@@ -1,0 +1,4 @@
+/home/mrx_ovo/Programs/qt5/build-MThread_3-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/mrx_ovo/Programs/qt5/build-MThread_3-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/mrx_ovo/Programs/qt5/build-MThread_3-Desktop-Debug/CMakeFiles/MThread_3.dir
+/home/mrx_ovo/Programs/qt5/build-MThread_3-Desktop-Debug/CMakeFiles/MThread_3_autogen.dir

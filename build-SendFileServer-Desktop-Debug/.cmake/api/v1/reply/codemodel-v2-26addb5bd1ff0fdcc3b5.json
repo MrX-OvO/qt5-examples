@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SendFileServer",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SendFileServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SendFileServer-Debug-32c4556484ae066c3138.json",
+					"name" : "SendFileServer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SendFileServer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SendFileServer_autogen-Debug-57a53fa6728a1a17700b.json",
+					"name" : "SendFileServer_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mrx_ovo/Programs/qt5/build-SendFileServer-Desktop-Debug",
+		"source" : "/home/mrx_ovo/Programs/qt5/SendFileServer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
