@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/SendFileClient.dir/SendFileClient_autogen/mocs_compilation.cpp.o CMakeFiles/SendFileClient.dir/main.cpp.o CMakeFiles/SendFileClient.dir/mainwindow.cpp.o CMakeFiles/SendFileClient.dir/sendfile.cpp.o -o SendFileClient  /usr/lib/libQt5Widgets.so.5.15.2 /usr/lib/libQt5Network.so.5.15.2 /usr/lib/libQt5Gui.so.5.15.2 /usr/lib/libQt5Core.so.5.15.2 
